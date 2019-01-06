@@ -1,3 +1,6 @@
 07maven的常用命令.avi filter=lfs diff=lfs merge=lfs -text
 10创建maven项目&查找依赖.avi filter=lfs diff=lfs merge=lfs -text
 13maven整合struts2.avi filter=lfs diff=lfs merge=lfs -text
+06ssh整合-spring跟Hibernate框架整合.avi filter=lfs diff=lfs merge=lfs -text
+07ssh整合功能案例实现.avi filter=lfs diff=lfs merge=lfs -text
+12传递依赖的范围.avi filter=lfs diff=lfs merge=lfs -text
